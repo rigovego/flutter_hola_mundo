@@ -1,17 +1,34 @@
-# flutter_hola_mundo
+\# Unidad 3: Diseño de aplicaciones móviles
 
-A new Flutter project.
+\## 3.3. Inicio del desarrollo
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+\### Información del Estudiante
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+\* \*\*Nombre:\*\* Rigoberto Velasquez
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+\* \*\*Carrera:\*\* Licenciatura en Desarrollo de Sistemas Web
+
+\* \*\*Institución:\*\* Universidad de Guadalajara (UdeG)
+
+
+
+\---
+
+
+
+\### Objetivo de la Actividad
+
+Crear una aplicación inicial a partir de la exploración del entorno de desarrollo \*\*Flutter\*\* y la configuración del \*\*Set up\*\* (entorno de trabajo).
+
+### Descripción del Proyecto
+
+Este repositorio contiene la estructura básica de una aplicación móvil desarrollada con el SDK de Flutter. Se realizó la configuración completa del entorno, incluyendo:
+
+1\.  Configuración de Android Studio y emulador (Pixel 8 Pro).
+
+2\.  Vinculación con control de versiones mediante Git y GitHub Desktop.
+
+3\.  Creación de una interfaz básica "Hola Mundo".
+
